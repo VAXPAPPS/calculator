@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=calculator
+Comment=Flutter Application - calculator
+Exec=/usr/bin/calculator
+Icon=/usr/share/icons/hicolor/256x256/apps/calculator.png
+Terminal=false
+Categories=Utility;Development;
+Keywords=filemanager;files;explorer;browser;
+MimeType=inode/directory;

@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "url": "https://github.com/VAXPAPPS/Calculator/releases/download/v1.2.0/calculator_1.2.0_amd64.deb",
+  "url": "https://github.com/VAXPAPPS/calculator/releases/download/Calculator/calculator.deb",
   "changelog": "• إضافة الوضع العلمي المتقدم\n• تحسين استجابة الواجهة\n• إصلاح مشكلة التقريب في العمليات المعقدة",
   "install_path": ""
 }

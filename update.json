@@ -3,7 +3,7 @@
   "package": "calculator",
   "display_name": "حاسبة VAXP",
   "description": "حاسبة علمية متطورة بتصميم VAXP الزجاجي.",
-  "icon_url": "https://raw.githubusercontent.com/VAXPAPPS/Calculator/main/assets/icon.png",
+  "icon_url": "https://raw.githubusercontent.com/VAXPAPPS/Calculator/main/logo/calculator.png",
   "screenshots": [
     "https://raw.githubusercontent.com/VAXPAPPS/Calculator/main/assets/screenshot1.png",
     "https://raw.githubusercontent.com/VAXPAPPS/Calculator/main/assets/screenshot2.png"

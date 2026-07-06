@@ -18,7 +18,7 @@ class CalcButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final bg = color ?? CupertinoColors.systemGrey.withOpacity(0.1);
+    final bg = color ?? CupertinoColors.systemGrey.withValues(alpha: 0.1);
 
     return Expanded(
       flex: flex.toInt(),
